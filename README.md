@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Dré 👋
 
-<!--
-**vanhoucked/vanhoucked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-vanhoucked-greenyellow?logo=github)](https://github.com/vanhoucked)
+[![twitter](https://img.shields.io/badge/Tweet-VanhouckeDre-blue?logo=twitter)](https://twitter.com/VanhouckeDre)
+[![Linkedin](https://img.shields.io/badge/Linkedin-drévanhoucke-blue?logo=linkedin)](https://www.linkedin.com/in/dr%C3%A9vanhoucke/)
+[![Mail](https://img.shields.io/badge/Mail-info@vanhouckedre.be-red?logo=Mail.Ru)](mailto:info@vanhouckedre.be)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Freelance IT Consultant
+- Owner of vanhouckedre.be
+- Computer Science student at Ghent University of Applied Sciences
+- Java / Python / JavaScript / Bash
+
+<img src="https://github-readme-stats.vercel.app/api?username=vanhoucked&show_icons=true&theme=vue" alt="kingram's github stats" />
