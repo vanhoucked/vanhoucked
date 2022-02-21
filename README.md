@@ -12,4 +12,6 @@
 - Computer Science student at Ghent University of Applied Sciences
 - Java / Python / JavaScript / Bash
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanhoucked&show_icons=true&theme=vue" alt="kingram's github stats" />
+![Dré's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhoucked&count_private=true&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoucked)](https://github.com/vanhoucked/github-readme-stats)
