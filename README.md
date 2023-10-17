@@ -8,7 +8,7 @@
 ---
 
 - Freelance IT Consultant
-- Owner of vanhouckedre.be
+- Owner of BERE BV
 - Computer Science student at Ghent University of Applied Sciences
 - Java / Python / JavaScript / Bash
 
